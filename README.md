@@ -1,2 +1,2 @@
 # JFarm
-Minecraft Mod under development;
+Minecraft mod under development;
