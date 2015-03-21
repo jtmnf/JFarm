@@ -1,0 +1,9 @@
+# Blocks
+tile.jfarm:farmCompressor.name=Compressor
+
+# Items
+item.jfarm:grind.name=Grind
+item.jfarm:grindWheat.name=Grinded Wheat
+
+# Creative Tab
+itemGroup.jfarm=JFarm

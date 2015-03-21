@@ -1,0 +1,17 @@
+[
+{
+    "modid": "JFarm",
+    "name": "JFarm",
+    "description": "Another way to get food!",
+    "version": "1.0.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "jtmnf" ],
+    "credits": "Thanks to Pahimar and VSWE for the excellent courses they made!",
+    "logoFile": "",
+    "screenshots": [ ],
+    "parent": "",
+    "dependencies": [ ]
+}
+]
